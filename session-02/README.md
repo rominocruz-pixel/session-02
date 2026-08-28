@@ -1,6 +1,6 @@
 # Session 2 Git Workflow Project
 ## Description
-This project demonstrates my first Git and GitHub workflow.
+This project demonstrates my first Git and GitHub workflow..
 ## Technologies Used
 - HTML
 - Git
@@ -11,4 +11,4 @@ This project demonstrates my first Git and GitHub workflow.
 - How to stage and commit changes
 - How to push a project to GitHub
 ## Author
-Romino Cruz
+Romino Cruz 2
